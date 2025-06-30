@@ -35,3 +35,7 @@ A simple Python banking application that allows users to create accounts, log in
 - Encrypt stored passwords for security
 - Add a transaction history feature
 - Build a graphical version using Tkinter
+
+## Flowchart
+
+![App Flowchart](images/flowchart.png)
