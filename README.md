@@ -38,4 +38,4 @@ A simple Python banking application that allows users to create accounts, log in
 
 ## Flowchart
 
-![App Flowchart](images/pybank-app-flowchart.jpg)
+![App Flowchart](images/pybank-app-flowchart.png)
